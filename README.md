@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sorabh Sharma<br><br>💻 Computer Science Student | DSA Enthusiast | Full Stack Developer<br><br>-  💡 Interested in **problem solving, system design, and building real-world web applications**<br>- 🔭 Currently working on **DSA practice and full stack projects**<br>- 🤝 Looking to collaborate on **open-source and web development projects**less the dsa part<br>-  ⚡ Fun fact: I enjoy building projects and constantly learning new technologies.
+Hi 👋, I'm Sorabh Sharma<br><br>💻 Computer Science Student | DSA Enthusiast | Full Stack Developer<br><br>-  💡 Interested in **problem solving, system design, and building real-world web applications**<br>- 🔭 Currently working on full stack projects**<br>- 🤝 Looking to collaborate on **open-source and web development projects**less the dsa part<br>-  ⚡ Fun fact: I enjoy building projects and constantly learning new technologies.
 
 
 
